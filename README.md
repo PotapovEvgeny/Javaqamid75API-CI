@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3abo4clhmu89vf4p?svg=true)](https://ci.appveyor.com/project/PotapovEvgeny/javaqamid75api-ci)
